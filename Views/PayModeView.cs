@@ -12,10 +12,10 @@ namespace Supermarket_mvp.Views
 {
     public partial class PayModeView : Form, IPayModeView
     {
-
-        private bool isEdit;
+       private bool isEdit;
         private bool isSuccessful;
-        private bool message;
+        private string message;
+       
         private TabPage tabPagePatModeDatil;
 
         public PayModeView()
@@ -31,14 +31,14 @@ namespace Supermarket_mvp.Views
 
             TxtSearch.KeyDown += (s, e) =>
                 {
-                    if (e.KeyCode == Keys.Enter) { 
+                    if (e.KeyCode == Keys.Enter)
+                    {
 
                         SearchEvent?.Invoke(this, EventArgs.Empty);
-                }
+                    }
 
-        };
-    }
-
+                };
+        }
 
         public string PayModeId
         {
@@ -64,28 +64,28 @@ namespace Supermarket_mvp.Views
         }
         public string SearchValue
         {
-            get { return TxtSearchValue.Text; }
-            set { TxtSearchValue.Text = value; }
+            
+            get { return TxtSearch.Text; }
+            set { TxtSearch.Text = value; }
         }
 
         public bool IsEdit
         {
-            get { return IsEdit; }
-            set { IsEdit = value; }
+            get { return isEdit; }
+            set { isEdit = value; }
         }
 
         public bool IsSuccessful
         {
-            get { return IsSuccessful; }
-            set { IsSuccessful = value; }
+            get { return isSuccessful; }
+            set { isSuccessful = value; }
         }
 
-        public bool Message
+        public string Message
         {
-            get { return Message; }
-            set { Message = value; }
+            get { return message; }
+            set { message = value; }
         }
-
 
 
         public string playModeId { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
@@ -94,12 +94,8 @@ namespace Supermarket_mvp.Views
         public string SearchValue { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public bool IsEdit { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public bool IsSuccessful { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string Message { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+       public string Message { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
-        public PayModeView()
-        {
-            InitializeComponent();
-        }
 
         public event EventHandler SearchEvent;
         public event EventHandler AddNewEvent;
@@ -153,17 +149,16 @@ namespace Supermarket_mvp.Views
 
 
             DgPayMode.DataSource = payModeList;
-            public void show()
-       
+        }
 
 
 
 
-    
 
-    public void show()
-    {
-        throw new NotImplementedException();
+        public void show()
+        {
+            throw new NotImplementedException();
+        }
     }
-}
+
 }

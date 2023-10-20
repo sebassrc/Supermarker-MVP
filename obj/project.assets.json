@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Taller_De_Lenguaje_Informatico\\Supermarket-mvp\\Supermarket-mvp.csproj",
-      "projectName": "Supermarket-mvp",
-      "projectPath": "C:\\Taller_De_Lenguaje_Informatico\\Supermarket-mvp\\Supermarket-mvp.csproj",
+      "projectUniqueName": "C:\\Taller_De_Lenguaje_Informatico\\Supermarket-mvp\\Supermarket_mvp.csproj",
+      "projectName": "Supermarket_mvp",
+      "projectPath": "C:\\Taller_De_Lenguaje_Informatico\\Supermarket-mvp\\Supermarket_mvp.csproj",
       "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
       "outputPath": "C:\\Taller_De_Lenguaje_Informatico\\Supermarket-mvp\\obj\\",
       "projectStyle": "PackageReference",
