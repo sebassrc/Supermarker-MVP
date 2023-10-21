@@ -87,15 +87,9 @@ namespace Supermarket_mvp.Views
             set { message = value; }
         }
 
-
         public string playModeId { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public string playModeName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public string playModeOservation { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string SearchValue { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public bool IsEdit { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public bool IsSuccessful { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-       public string Message { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-
 
         public event EventHandler SearchEvent;
         public event EventHandler AddNewEvent;
