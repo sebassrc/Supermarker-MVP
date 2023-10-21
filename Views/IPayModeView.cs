@@ -17,13 +17,12 @@ namespace Supermarket_mvp.Views
         bool IsEdit { get; set; }
         bool IsSuccessful { get; set; }
         string Message { get; set; }
-
-        event EventHandler SearchEvent;
-        event EventHandler AddNewEvent;
-        event EventHandler EditEvent;
-        event EventHandler DeleteEvent;
-        event EventHandler SaveEvent;
-        event EventHandler CancelEvent;
+        Action<object?, EventArgs> CancelEvent { get; set; }
+        Action<object?, EventArgs> SaveEvent { get; set; }
+        Action<object?, EventArgs> DeleteEvent { get; set; }
+        Action<object?, EventArgs> EditEvent { get; set; }
+        Action<object?, EventArgs> SearchEvent { get; set; }
+        Action<object?, EventArgs> AddNewEvent { get; set; }
 
         void SetPayModeListBildingSource(BindingSource payModeList);
         void show();

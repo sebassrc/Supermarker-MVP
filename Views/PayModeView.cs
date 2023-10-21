@@ -12,10 +12,10 @@ namespace Supermarket_mvp.Views
 {
     public partial class PayModeView : Form, IPayModeView
     {
-       private bool isEdit;
+        private bool isEdit;
         private bool isSuccessful;
         private string message;
-       
+
         private TabPage tabPagePatModeDatil;
 
         public PayModeView()
@@ -44,17 +44,13 @@ namespace Supermarket_mvp.Views
         {
             get { return TxtPayModeId.Text; }
             set { TxtPayModeId.Text = value; }
-
         }
-
 
         public string PayModeName
         {
             get { return TxtPayModeName.Text; }
             set { TxtPayModeName.Text = value; }
-
         }
-
 
         public string PayModeObservation
         {
@@ -64,7 +60,7 @@ namespace Supermarket_mvp.Views
         }
         public string SearchValue
         {
-            
+
             get { return TxtSearch.Text; }
             set { TxtSearch.Text = value; }
         }
@@ -90,6 +86,12 @@ namespace Supermarket_mvp.Views
         public string playModeId { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public string playModeName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public string playModeOservation { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        Action<object?, EventArgs> IPayModeView.CancelEvent { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        Action<object?, EventArgs> IPayModeView.SaveEvent { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        Action<object?, EventArgs> IPayModeView.DeleteEvent { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        Action<object?, EventArgs> IPayModeView.EditEvent { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        Action<object?, EventArgs> IPayModeView.SearchEvent { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        Action<object?, EventArgs> IPayModeView.AddNewEvent { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public event EventHandler SearchEvent;
         public event EventHandler AddNewEvent;
@@ -145,14 +147,39 @@ namespace Supermarket_mvp.Views
             DgPayMode.DataSource = payModeList;
         }
 
+        private static PayModeView instance;
 
 
+        
 
+
+        public static PayModeView GetInstance()
+        {
+
+            if (instance == null || instance.IsDisposed)
+            {
+                instance = new PayModeView ();
+
+            }
+            else
+            {
+                if (instance.WindowState == FormWindowState.Minimized)
+                {
+
+                    instance.WindowState = FormWindowState.Normal;
+                }
+                instance.BringToFront();
+            }
+
+            return instance;
+        }
 
         public void show()
         {
             throw new NotImplementedException();
         }
     }
-
 }
+
+
+
