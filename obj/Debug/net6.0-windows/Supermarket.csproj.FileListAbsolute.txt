@@ -1,0 +1,140 @@
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\bin\Debug\net6.0-windows\Supermarket.exe
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\bin\Debug\net6.0-windows\Supermarket.deps.json
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\bin\Debug\net6.0-windows\Supermarket.runtimeconfig.json
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\bin\Debug\net6.0-windows\Supermarket.dll
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\bin\Debug\net6.0-windows\Supermarket.pdb
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.AssemblyReference.cache
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\Supermarket.MainForm.resources
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.GenerateResource.cache
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfoInputs.cache
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfo.cs
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\Supermarket.dll
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\refint\Supermarket.dll
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\Supermarket.pdb
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\Supermarket.genruntimeconfig.cache
+C:\Users\estudiantes\Documents\S4AN MAPM\Supermarket\obj\Debug\net6.0-windows\ref\Supermarket.dll
+D:\Supermarket\bin\Debug\net6.0-windows\Supermarket.exe
+D:\Supermarket\bin\Debug\net6.0-windows\Supermarket.deps.json
+D:\Supermarket\bin\Debug\net6.0-windows\Supermarket.runtimeconfig.json
+D:\Supermarket\bin\Debug\net6.0-windows\Supermarket.dll
+D:\Supermarket\bin\Debug\net6.0-windows\Supermarket.pdb
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.MainForm.resources
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.Properties.Resources.resources
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.PayModeForm.resources
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.GenerateResource.cache
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfoInputs.cache
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfo.cs
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.CoreCompileInputs.cache
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.dll
+D:\Supermarket\obj\Debug\net6.0-windows\refint\Supermarket.dll
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.pdb
+D:\Supermarket\obj\Debug\net6.0-windows\Supermarket.genruntimeconfig.cache
+D:\Supermarket\obj\Debug\net6.0-windows\ref\Supermarket.dll
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\bin\Debug\net6.0-windows\Supermarket.exe
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\bin\Debug\net6.0-windows\Supermarket.deps.json
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\bin\Debug\net6.0-windows\Supermarket.runtimeconfig.json
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\bin\Debug\net6.0-windows\Supermarket.dll
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\bin\Debug\net6.0-windows\Supermarket.pdb
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.MainForm.resources
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.Properties.Resources.resources
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.PayModeForm.resources
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.GenerateResource.cache
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfoInputs.cache
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfo.cs
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.dll
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\refint\Supermarket.dll
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.pdb
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.genruntimeconfig.cache
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\ref\Supermarket.dll
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Product.resources
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Providers.resources
+C:\Users\CARLOS\Downloads\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Categories.resources
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\bin\Debug\net6.0-windows\Supermarket.exe
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\bin\Debug\net6.0-windows\Supermarket.deps.json
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\bin\Debug\net6.0-windows\Supermarket.runtimeconfig.json
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\bin\Debug\net6.0-windows\Supermarket.dll
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\bin\Debug\net6.0-windows\Supermarket.pdb
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.MainForm.resources
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.Properties.Resources.resources
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Categories.resources
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.PayModeForm.resources
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Product.resources
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Providers.resources
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.GenerateResource.cache
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfoInputs.cache
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfo.cs
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.CoreCompileInputs.cache
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.dll
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\refint\Supermarket.dll
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.pdb
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\Supermarket.genruntimeconfig.cache
+D:\Carlos U\Semestre 4\Lenguaje Informatico\Taller Practico Supermarket\Supermarket\Supermarket\obj\Debug\net6.0-windows\ref\Supermarket.dll
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\bin\Debug\net6.0-windows\Supermarket.exe
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\bin\Debug\net6.0-windows\Supermarket.deps.json
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\bin\Debug\net6.0-windows\Supermarket.runtimeconfig.json
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\bin\Debug\net6.0-windows\Supermarket.dll
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\bin\Debug\net6.0-windows\Supermarket.pdb
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.MainForm.resources
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.Properties.Resources.resources
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Categories.resources
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.PayModeForm.resources
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Product.resources
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Providers.resources
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.GenerateResource.cache
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfoInputs.cache
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfo.cs
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.dll
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\refint\Supermarket.dll
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.pdb
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\Supermarket.genruntimeconfig.cache
+C:\Users\joan.henao\Desktop\Carlos Loitti Consolidado 2\Taller\Supermarket\obj\Debug\net6.0-windows\ref\Supermarket.dll
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\bin\Debug\net6.0-windows\Supermarket.exe
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\bin\Debug\net6.0-windows\Supermarket.deps.json
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\bin\Debug\net6.0-windows\Supermarket.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\bin\Debug\net6.0-windows\Supermarket.dll
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\bin\Debug\net6.0-windows\Supermarket.pdb
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.MainForm.resources
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.Properties.Resources.resources
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Categories.resources
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.PayModeForm.resources
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Product.resources
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Providers.resources
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.GenerateResource.cache
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.dll
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\refint\Supermarket.dll
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.pdb
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\Taller CRUD\Supermarket\obj\Debug\net6.0-windows\ref\Supermarket.dll
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\bin\Debug\net6.0-windows\Supermarket.exe
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\bin\Debug\net6.0-windows\Supermarket.deps.json
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\bin\Debug\net6.0-windows\Supermarket.runtimeconfig.json
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\bin\Debug\net6.0-windows\Supermarket.dll
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\bin\Debug\net6.0-windows\Supermarket.pdb
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.MainForm.resources
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.Properties.Resources.resources
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Categories.resources
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.PayModels.resources
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Product.resources
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.View.Providers.resources
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.GenerateResource.cache
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfoInputs.cache
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.AssemblyInfo.cs
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.csproj.CoreCompileInputs.cache
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.dll
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\refint\Supermarket.dll
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.pdb
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\Supermarket.genruntimeconfig.cache
+C:\Taller_De_Lenguaje_Informatico\SupermarkerCRUD\Supermarket\obj\Debug\net6.0-windows\ref\Supermarket.dll
